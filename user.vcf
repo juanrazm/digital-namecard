@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Juan Ramon;Zugarramurdi;;;
+FN: Juan Ramon Zugarramurdi Moreno
+ORG:Q Paper;
+TITLE:Socio
+EMAIL;type=INTERNET;type=WORK;type=pref:juanrazm@outlook.com
+TEL;type=WORK;type=VOICE:5510707549
+item1.ADR;type=WORK;type=pref:;;Av Sta Fe 170, Santa Fe, Sta Fé;;;01376 Ciudad de México, CDMX
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref: 
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
